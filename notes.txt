@@ -1,0 +1,21 @@
+# Project
+Superuser Credentials
+- Username: admin
+- Password: 1234qwer
+
+Groups
+- Customer
+- Delivery Crew
+- Manager
+
+Customer1
+- Username: customer1
+- Password: cUsTpAsS
+
+Deliver1
+- Username: delivery1
+- Password: dElIpAsS
+
+Manager1
+- Username: manager1 
+- Password: mAnApAsS

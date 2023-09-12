@@ -4,8 +4,11 @@ This is my submission for the Cousera Little Lemon API Project for Week 4.
 ## Running the project
 Run `pipenv shell` to get started.
 
+
 ## Other
 More functionality can be found in this Postman shared workspace https://www.postman.com/codeforcoffeestudio/workspace/coursera-meta-backend-api-shared/collection/25176343-d9a849a0-9189-47b4-892e-c9a8da2eacb5?action=share&creator=25176343
+
+Passwords for users can be found in notes.txt
 
 
 ## Required Functionality
@@ -131,8 +134,6 @@ Then let's use the same authentication token to get all items.
 Let's browse by category. Here we use Category as 2, or Seafood
 
 ![Alt text](./static/image34.png)
-
-
 
 ### 16. Customers can paginate menu items
 Pagination is shown below.
